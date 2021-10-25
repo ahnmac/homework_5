@@ -1,7 +1,6 @@
 // Create an array of time blocks
 var timeblocks = [9, 10, 11, 12, 13, 14, 15];
-var saveBtn = document.getElementById("save");
-var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+var getElementById ('checkbox');
 
 //Using moment js decide weather or not the time in the array is the past, present or future
 function pastPresentFuture(hour) {
@@ -12,7 +11,9 @@ function pastPresentFuture(hour) {
 
 function saveEvent(event) {
   // Save to local stoarage the event at a certain time.
-  localStorage.setItem("timeblocks")
+  if ('checkbox' = )
+
+
 }
 
 var blocks = $('#timeblocks');
